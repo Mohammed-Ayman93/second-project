@@ -506,11 +506,11 @@ main button:hover{
         display: block;
     }
     .icons-card{
-        width: 40%;
+        width: 60%;
         margin: 20px auto;
     }
     .icoon-img , .icons-card:last-child .icoon-img{
-        width: 40%;
+        width: 35%;
     }
     .products-parent{
         display: block;
