@@ -32,8 +32,8 @@ header img{
     margin-top: 12px;
 }
 .click{
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     margin-top: 25px;
     display: none;
 }
@@ -43,7 +43,7 @@ header img{
 }
 header a i{
     color: black;
-    font-size: 25px;
+    font-size: 20px;
     margin-left: 8px;
 }
 header span{
@@ -503,7 +503,7 @@ main button:hover{
         margin-bottom: 25px;
     }
     .wide{
-        height: 315px;
+        height: 350px;
     }
     .category-icons{
         display: block;
@@ -513,7 +513,7 @@ main button:hover{
         margin: 20px auto;
     }
     .icoon-img , .icons-card:last-child .icoon-img{
-        width: 28%;
+        width: 40%;
     }
     .products-parent{
         display: block;
