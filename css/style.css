@@ -510,7 +510,7 @@ main button:hover{
         margin: 20px auto;
     }
     .icoon-img , .icons-card:last-child .icoon-img{
-        width: 35%;
+        width: 25%;
     }
     .products-parent{
         display: block;
