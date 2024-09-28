@@ -393,10 +393,13 @@ main button:hover{
     main div{
         height: 50vh;
         padding-top: 50px;
-
+    }
+    .nav-icons{
+        display: none;
     }
     .click{
         display: block;
+        margin-left: auto;
     }
     header{
         position: relative;
@@ -406,7 +409,7 @@ main button:hover{
         line-height: 30px;
         position: absolute;
         top: 80px;
-        left: 80px;
+        right: 0px;
         transform: scale(0);
         transition: 0.3s;
         transform-origin: top;
