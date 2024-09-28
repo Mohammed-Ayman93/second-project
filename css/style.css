@@ -41,6 +41,9 @@ header img{
     font-size: 25px;
     color: var(--main-color);
 }
+.nav-icons{
+    margin-left: auto;
+}
 header a i{
     color: black;
     font-size: 20px;
@@ -447,7 +450,7 @@ main button:hover{
         grid-template-columns: repeat(2 , 1fr);
     }
     .card-desc p{
-        font-size: 25px;
+        font-size: 23px;
     }
     .disc-card{
         height: 380px;
@@ -463,7 +466,7 @@ main button:hover{
 
 @media(max-width:700px){
     .card-desc p{
-        font-size: 20px;
+        font-size: 18px;
     }
     .category-icons{
         grid-template-columns: repeat(2, 1fr);
